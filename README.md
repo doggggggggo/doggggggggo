@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">Hello, I'm Matheus Henry <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </hl>
 
-<!--
-**Dobby-975/Dobby-975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobby-975&anuraghazra&theme=tokyonight&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=randomonn&color=red" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Loves Harry Potter
+- 13 yr old
+- Brazlian
+- Wants to work on Google
+
+
+- I know
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; /
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+- I'm learning
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp; /
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; /
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
