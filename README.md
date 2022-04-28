@@ -1,10 +1,10 @@
 <h1 align="left">Hello, I'm Matheus Henry <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </hl>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobby-975&anuraghazra&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=That-Capybara&anuraghazra&theme=tokyonight&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomonn&color=gray" alt="Profile views" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobby-975&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=That-Capybara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Loves Harry Potter
 - 13 yr old
