@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggggggggo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- Loves Star Wara
+- Loves Star Wars
 - 13 yr old
 - Brazilian🇧🇷
 - Wants to work on Google
